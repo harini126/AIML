@@ -1,1 +1,1 @@
-# AIML
+# AIML Bootcamp
