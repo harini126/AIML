@@ -1,0 +1,24 @@
+
+
+(1)__STARTERS__
+1)Chilli Chicken --- 250
+2)Chicken 65 --- 250
+3)Paneer 65 --- 190 
+4)Veg Manchurian--- 160
+
+(2)__BIRYANIS__
+1)Chicken Biryani --- 230
+3)Chicken family pack --- 580
+4)Chicken Dum Biryani --- 300
+5)Mutton Biryani --- 350
+6)Mutton family pack --- 600
+7)Veg. Biryani --- 170
+8)Veg. family pack --- 370
+
+(3)__Desserts__
+1)Butter Scotch --- 70
+2)Vanilla --- 55
+3)Strawberry --- 80
+4)Chocolate --- 100
+5)Black Forest --- 160
+6)Red velvet --- 200

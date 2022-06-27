@@ -1,0 +1,1 @@
+f.write("(2)BIRYANIS\nChicken Biryani --- 230\nChicken family pack --- 580\nChicken Dum Biryani --- 300\nMutton Biryani --- 350\nMutton family pack --- 600\nVeg. Biryani --- 170\nVeg. family pack --- 370")
